@@ -1,0 +1,3 @@
+[submodule "Drakosha\\vendor\\spdlog"]
+	path = Drakosha\\vendor\\spdlog
+	url = https://github.com/gabime/spdlog
